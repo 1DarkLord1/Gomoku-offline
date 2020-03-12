@@ -1,7 +1,7 @@
 # Gomoku-offline-
 
-## Gomoku game for Unix-like systems (with ncurses graphics)
+### Gomoku game for Unix-like systems (with ncurses graphics)
 
-## Run command: ./gomoku
+### Run command: ./gomoku
 
 TODO
